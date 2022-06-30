@@ -1,1 +1,1 @@
-# Projet_Separation of drums from music signals
+# Project_Separation of drums from music signals
